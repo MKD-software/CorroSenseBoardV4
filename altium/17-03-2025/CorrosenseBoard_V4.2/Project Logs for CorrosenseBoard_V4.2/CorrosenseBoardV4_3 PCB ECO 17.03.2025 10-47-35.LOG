@@ -1,0 +1,290 @@
+Change Component Comment : Designator=C100 Old Comment= New Comment=0.22uF
+Change Component Comment : Designator=R302 Old Comment= New Comment=1k
+Change Component Comment : Designator=R601 Old Comment= New Comment=1K
+Change Component Comment : Designator=C306 Old Comment= New Comment=1nF
+Change Component Comment : Designator=C601 Old Comment= New Comment=1nF
+Change Component Comment : Designator=C604 Old Comment= New Comment=1nF
+Change Component Comment : Designator=C207 Old Comment= New Comment=1uF
+Change Component Comment : Designator=C216 Old Comment= New Comment=1uF
+Change Component Comment : Designator=C217 Old Comment= New Comment=1uF
+Change Component Comment : Designator=C400 Old Comment= New Comment=1uF
+Change Component Comment : Designator=C403 Old Comment= New Comment=1uF
+Change Component Comment : Designator=C504 Old Comment= New Comment=1uF
+Change Component Comment : Designator=C505 Old Comment= New Comment=1uF
+Change Component Comment : Designator=C506 Old Comment= New Comment=1uF
+Change Component Comment : Designator=C507 Old Comment= New Comment=1uF
+Change Component Comment : Designator=R100 Old Comment= New Comment=2.2K
+Change Component Comment : Designator=R101 Old Comment= New Comment=2.2K
+Change Component Comment : Designator=R700 Old Comment= New Comment=2.4k
+Change Component Comment : Designator=R703 Old Comment= New Comment=2.4k
+Change Component Comment : Designator=R708 Old Comment= New Comment=2.4k
+Change Component Comment : Designator=R709 Old Comment= New Comment=2.4k
+Change Component Comment : Designator=R711 Old Comment= New Comment=2.4k
+Change Component Comment : Designator=R600 Old Comment= New Comment=4.02K
+Change Component Comment : Designator=R603 Old Comment= New Comment=4.02K
+Change Component Comment : Designator=C201 Old Comment= New Comment=4.3pF
+Change Component Comment : Designator=C202 Old Comment= New Comment=4.3pF
+Change Component Comment : Designator=C203 Old Comment= New Comment=4.3pF
+Change Component Comment : Designator=C204 Old Comment= New Comment=4.3pF
+Change Component Comment : Designator=C208 Old Comment= New Comment=4.7uF
+Change Component Comment : Designator=C502 Old Comment= New Comment=4.7uF
+Change Component Comment : Designator=C800 Old Comment= New Comment=4.7uF
+Change Component Comment : Designator=R701 Old Comment= New Comment=5.6k
+Change Component Comment : Designator=R704 Old Comment= New Comment=5.6k
+Change Component Comment : Designator=R710 Old Comment= New Comment=5.6k
+Change Component Comment : Designator=R712 Old Comment= New Comment=5.6k
+Change Component Comment : Designator=R713 Old Comment= New Comment=5.6k
+Change Component Comment : Designator=R300 Old Comment= New Comment=5k
+Change Component Comment : Designator=R301 Old Comment= New Comment=5k
+Change Component Comment : Designator=R706 Old Comment= New Comment=6.2k
+Change Component Comment : Designator=R201 Old Comment= New Comment=10
+Change Component Comment : Designator=R702 Old Comment= New Comment=10k
+Change Component Comment : Designator=R705 Old Comment= New Comment=10k
+Change Component Comment : Designator=R707 Old Comment= New Comment=10k
+Change Component Comment : Designator=R714 Old Comment= New Comment=10k
+Change Component Comment : Designator=R715 Old Comment= New Comment=10k
+Change Component Comment : Designator=R716 Old Comment= New Comment=10k
+Change Component Comment : Designator=C218 Old Comment= New Comment=10nF
+Change Component Comment : Designator=C303 Old Comment= New Comment=10nF
+Change Component Comment : Designator=C309 Old Comment= New Comment=10nF
+Change Component Comment : Designator=C405 Old Comment= New Comment=10nF
+Change Component Comment : Designator=C602 Old Comment= New Comment=10nF
+Change Component Comment : Designator=C700 Old Comment= New Comment=10nF
+Change Component Comment : Designator=C401 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C402 Old Comment= New Comment=10uF
+Change Component Comment : Designator=C404 Old Comment= New Comment=10uF
+Change Component Comment : Designator=R303 Old Comment= New Comment=12k
+Change Component Comment : Designator=C701 Old Comment= New Comment=20nF
+Change Component Comment : Designator=L500 Old Comment= New Comment=47uH
+Change Component Comment : Designator=R602 Old Comment= New Comment=49.9K
+Change Component Comment : Designator=C200 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C205 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C206 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C209 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C210 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C211 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C212 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C213 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C214 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C215 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C300 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C302 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C304 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C307 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C308 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C310 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C311 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C406 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C407 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C600 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C702 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C703 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C704 Old Comment= New Comment=100nF
+Change Component Comment : Designator=C801 Old Comment= New Comment=100nF
+Change Component Comment : Designator=R200 Old Comment= New Comment=150
+Change Component Comment : Designator=C305 Old Comment= New Comment=150nF
+Change Component Comment : Designator=C603 Old Comment= New Comment=150nF
+Change Component Comment : Designator=R103 Old Comment= New Comment=220K
+Change Component Comment : Designator=R102 Old Comment= New Comment=330
+Change Component Comment : Designator=C503 Old Comment= New Comment=470nF
+Change Component Comment : Designator=C501 Old Comment=22uF / not 47uF New Comment=22uF
+Change Component Comment : Designator=P101 Old Comment=Header, 10-Pin New Comment=Header, 10-Pin FEMALE
+Change Component Description : Designator=J101 Old Description= New Description=B2B-XH-A(LF)(SN)
+Change Component Description : Designator=J100 Old Description= New Description=USB Connectors MICRO USB B RECPT BTTM MOUNT ASSY
+Change component parameters: Designator = "P101" ("P101"); Footprint = "HDR1X10"; UniqueID = "\TFKYIBBT" ("\TFKYIBBT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "61301011821"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C205" ("C205"); Footprint = "1608[0603]"; UniqueID = "\RNKMTKMG\TRSDYLPO" ("\RNKMTKMG\TRSDYLPO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C206" ("C206"); Footprint = "1608[0603]"; UniqueID = "\RNKMTKMG\QNNYTNOQ" ("\RNKMTKMG\QNNYTNOQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C300" ("C300"); Footprint = "1608[0603]"; UniqueID = "\AQNTGJJH\ZHYLADDL" ("\AQNTGJJH\ZHYLADDL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C302" ("C302"); Footprint = "1608[0603]"; UniqueID = "\AQNTGJJH\RTQBHTNY" ("\AQNTGJJH\RTQBHTNY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C304" ("C304"); Footprint = "1608[0603]"; UniqueID = "\AQNTGJJH\KMEWZZYU" ("\AQNTGJJH\KMEWZZYU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C307" ("C307"); Footprint = "1608[0603]"; UniqueID = "\AQNTGJJH\XEHHUKBK" ("\AQNTGJJH\XEHHUKBK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C308" ("C308"); Footprint = "1608[0603]"; UniqueID = "\AQNTGJJH\PWLLSEEL" ("\AQNTGJJH\PWLLSEEL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C406" ("C406"); Footprint = "1608[0603]"; UniqueID = "\JIUSAXBP\QUEUUTSL" ("\JIUSAXBP\QUEUUTSL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C407" ("C407"); Footprint = "1608[0603]"; UniqueID = "\JIUSAXBP\DHIFZARW" ("\JIUSAXBP\DHIFZARW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C501" ("C501"); Footprint = "1608[0603]"; UniqueID = "\UTMFHNCG\KGSAMXYU" ("\UTMFHNCG\KGSAMXYU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188C61E226ME01J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C702" ("C702"); Footprint = "1608[0603]"; UniqueID = "\NVJKRLCF\ELQGLSTK" ("\NVJKRLCF\ELQGLSTK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C703" ("C703"); Footprint = "1608[0603]"; UniqueID = "\NVJKRLCF\PMIRQYXK" ("\NVJKRLCF\PMIRQYXK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C704" ("C704"); Footprint = "1608[0603]"; UniqueID = "\NVJKRLCF\IKFBQKAJ" ("\NVJKRLCF\IKFBQKAJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GCJ188R71E104KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J101" ("J101"); Footprint = "JST_B2B-XH-A"; UniqueID = "\EZKHSORO" ("\EZKHSORO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y200" ("Y200"); Footprint = "XTAL_ABS07-166-32.768KHZ-T"; UniqueID = "\RNKMTKMG\BEILJOHK" ("\RNKMTKMG\BEILJOHK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABS07-166-32.768KHZ-T/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ABS07-166-32.768KHZ-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "ABS07-166-32.768KHZ-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD-2 Abracon LLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ABS07-166-32.768KHZ-T/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS07-166-32.768KHZ-T/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "32768 kHz"; VariantName = "[No Variations]"

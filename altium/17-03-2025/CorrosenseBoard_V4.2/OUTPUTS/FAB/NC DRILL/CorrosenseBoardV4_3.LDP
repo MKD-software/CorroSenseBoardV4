@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\HW\Documents\CorrosenseBoard_V4.2\CorrosenseBoard_V4.2\CorrosenseBoardV4_3.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=corrosenseboardv4_3-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=corrosenseboardv4_3-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

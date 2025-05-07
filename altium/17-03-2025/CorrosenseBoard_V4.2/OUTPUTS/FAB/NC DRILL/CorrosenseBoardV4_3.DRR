@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CorrosenseBoardV4_3.PcbDoc   17/03/2025  13:48:13
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : CorrosenseBoardV4_3-Plated.TXT
+ASCII Non-Plated RoundHoles File : CorrosenseBoardV4_3-NonPlated.TXT
+EIA File   : CorrosenseBoardV4_3.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             165       PTH        890.05mm (35.04inch)
+T2      0.8mm (31mil)                                             Round             16        PTH        56.00mm (2.20inch)
+T3      0.85mm (33mil)                                            Round             2         PTH        13.50mm (0.53inch)
+T4      0.9mm (35mil)                                             Round             82        PTH        386.03mm (15.20inch)
+T5      1.05mm (41mil)                                            Round             2         PTH        2.50mm (0.10inch)
+T6      1.6mm (63mil)                                             Round             5         PTH        18.83mm (0.74inch)
+T7      3.1mm (122mil)                                            Round             4         PTH        341.03mm (13.43inch)
+T8      0.75mm (30mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              277
+
+Total Processing Time (hh:mm:ss) : 00:00:00

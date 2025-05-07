@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=CorroSenseBoard_V4_DaugtherBoard.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=CorroSenseBoard_V4_DaugtherBoard.SchDoc|Designator=U_5Vsupply|SchDesignator=U_5Vsupply|FileName=5Vsupply.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=5Vsupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CorroSenseBoard_V4_DaugtherBoard.SchDoc|Designator=U_Lockin|SchDesignator=U_Lockin|FileName=Lockin.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Lockin.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

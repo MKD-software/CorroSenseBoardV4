@@ -1,0 +1,156 @@
+Altium Designer Pick and Place Locations
+C:\Users\HW\Documents\CorrosenseBoard_V4.2\CorrosenseBoard_V4.2\OUTPUTS\Pick and Place\CorrosenseBoard_V4.2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/03/25
+Time:       13:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Description                                                                           Layer       Center-X(mm) Center-Y(mm) Rotation 
+C100       "CAP CER 25V X7R 0603"                                                                TopLayer    16.9160mm    69.0880mm    180      
+C200       "CAP CER 25V X7R 0603"                                                                BottomLayer 66.4210mm    38.0350mm    270      
+C201       "CAP CER 25V X7R 0603"                                                                BottomLayer 72.6663mm    46.3520mm    0        
+C202       "CAP CER 25V X7R 0603"                                                                BottomLayer 74.2466mm    41.5260mm    0        
+C203       "CAP CER 25V X7R 0603"                                                                BottomLayer 70.3580mm    41.4020mm    180      
+C204       "CAP CER 25V X7R 0603"                                                                BottomLayer 69.7850mm    45.7200mm    180      
+C205       "CAP CER 25V X7R 0603"                                                                TopLayer    65.0111mm    74.9294mm    180      
+C206       "CAP CER 25V X7R 0603"                                                                BottomLayer 64.6920mm    72.4545mm    90       
+C207       "CAP CER 25V X7R 0603"                                                                BottomLayer 63.1680mm    72.3895mm    90       
+C208       "CAP CER 25V X7R 0603"                                                                TopLayer    56.0070mm    47.9440mm    90       
+C209       "CAP CER 25V X7R 0603"                                                                TopLayer    54.1020mm    47.9440mm    90       
+C210       "CAP CER 25V X7R 0603"                                                                TopLayer    52.1970mm    47.9440mm    90       
+C211       "CAP CER 25V X7R 0603"                                                                TopLayer    50.2920mm    45.0200mm    270      
+C212       "CAP CER 25V X7R 0603"                                                                TopLayer    50.2920mm    47.9440mm    90       
+C213       "CAP CER 25V X7R 0603"                                                                BottomLayer 45.0820mm    36.0680mm    0        
+C214       "CAP CER 25V X7R 0603"                                                                BottomLayer 48.0680mm    36.0680mm    180      
+C215       "CAP CER 25V X7R 0603"                                                                TopLayer    54.1020mm    45.0200mm    270      
+C216       "CAP CER 25V X7R 0603"                                                                TopLayer    52.1970mm    45.0200mm    270      
+C217       "CAP CER 25V X7R 0603"                                                                TopLayer    57.9120mm    45.0200mm    270      
+C218       "CAP CER 25V X7R 0603"                                                                TopLayer    56.0070mm    45.0200mm    270      
+C300       "CAP CER 25V X7R 0603"                                                                BottomLayer 22.3520mm    18.5420mm    90       
+C301       "CAP CER 25V X7R 0603"                                                                BottomLayer 19.1770mm    31.3690mm    270      
+C302       "CAP CER 25V X7R 0603"                                                                BottomLayer 33.7820mm    39.5590mm    270      
+C303       "CAP CER 25V X7R 0603"                                                                TopLayer    31.8770mm    42.5350mm    180      
+C304       "CAP CER 25V X7R 0603"                                                                TopLayer    30.0990mm    40.3860mm    90       
+C305       "CAP CER 25V X7R 0603"                                                                TopLayer    37.4650mm    34.6610mm    90       
+C306       "CAP CER 25V X7R 0603"                                                                TopLayer    20.7010mm    21.3879mm    270      
+C307       "CAP CER 25V X7R 0603"                                                                BottomLayer 33.8440mm    32.6390mm    0        
+C308       "CAP CER 25V X7R 0603"                                                                BottomLayer 34.4820mm    24.6380mm    180      
+C309       "CAP CER 25V X7R 0603"                                                                TopLayer    30.6070mm    18.0859mm    270      
+C310       "CAP CER 25V X7R 0603"                                                                TopLayer    24.7650mm    27.1034mm    180      
+C311       "CAP CER 25V X7R 0603"                                                                TopLayer    24.1300mm    21.7689mm    270      
+C400       "CAP CER 25V X7R 0603"                                                                BottomLayer 53.8480mm    22.7630mm    0        
+C401       "CAP CER 25V X7R 0603"                                                                BottomLayer 56.6420mm    22.7630mm    0        
+C402       "CAP CER 25V X7R 0603"                                                                BottomLayer 56.5150mm    14.9860mm    90       
+C403       "CAP CER 25V X7R 0603"                                                                BottomLayer 53.2130mm    15.0780mm    270      
+C404       "CAP CER 25V X7R 0603"                                                                BottomLayer 54.6673mm    15.0780mm    270      
+C405       "CAP CER 25V X7R 0603"                                                                BottomLayer 49.0220mm    12.2220mm    270      
+C406       "CAP CER 25V X7R 0603"                                                                BottomLayer 51.6890mm    15.4940mm    270      
+C407       "CAP CER 25V X7R 0603"                                                                BottomLayer 49.5847mm    16.0020mm    0        
+C500       "Capacitor Polarised"                                                                 TopLayer    79.5210mm    81.3583mm    90       
+C501       "CAP CER 25V X7R 0603"                                                                BottomLayer 75.9847mm    68.2223mm    270      
+C502       "CAP CER 25V X7R 0603"                                                                BottomLayer 76.0110mm    71.1325mm    180      
+C503       "CAP CER 25V X7R 0603"                                                                BottomLayer 68.5181mm    70.4975mm    0        
+C504       "CAP CER 25V X7R 0603"                                                                BottomLayer 66.0400mm    66.2940mm    180      
+C505       "CAP CER 25V X7R 0603"                                                                BottomLayer 69.1530mm    62.6235mm    0        
+C506       "CAP CER 25V X7R 0603"                                                                BottomLayer 66.0400mm    63.3855mm    0        
+C507       "CAP CER 25V X7R 0603"                                                                BottomLayer 66.1020mm    64.8398mm    0        
+C600       "CAP CER 25V X7R 0603"                                                                TopLayer    85.2170mm    31.6230mm    0        
+C601       "CAP CER 25V X7R 0603"                                                                TopLayer    88.1380mm    38.6842mm    90       
+C602       "CAP CER 25V X7R 0603"                                                                TopLayer    83.7050mm    46.3550mm    180      
+C603       "CAP CER 25V X7R 0603"                                                                TopLayer    80.0100mm    31.3690mm    90       
+C604       "CAP CER 25V X7R 0603"                                                                TopLayer    80.0100mm    46.1772mm    180      
+C700       "CAP CER 25V X7R 0603"                                                                BottomLayer 26.4810mm    45.4660mm    0        
+C701       "CAP CER 25V X7R 0603"                                                                BottomLayer 26.6700mm    48.7680mm    0        
+C702       "CAP CER 25V X7R 0603"                                                                TopLayer    33.8253mm    62.4468mm    270      
+C703       "CAP CER 25V X7R 0603"                                                                TopLayer    24.4273mm    59.5258mm    90       
+C704       "CAP CER 25V X7R 0603"                                                                TopLayer    26.4161mm    74.6760mm    180      
+C800       "CAP CER 25V X7R 0603"                                                                BottomLayer 85.2170mm    9.1440mm     270      
+C801       "CAP CER 25V X7R 0603"                                                                BottomLayer 82.5500mm    9.1440mm     270      
+D300       Diode                                                                                 TopLayer    20.7010mm    25.0710mm    90       
+FB200      "No Description Available"                                                            BottomLayer 43.0530mm    53.8480mm    180      
+FP400      "No Description Available"                                                            BottomLayer 58.3773mm    15.1130mm    90       
+FROM100    "Header, 10-Pin"                                                                      TopLayer    34.4170mm    80.5180mm    0        
+IC300      "Integrated Circuit"                                                                  TopLayer    26.6700mm    16.0540mm    90       
+IC400      "Integrated Circuit"                                                                  BottomLayer 54.9910mm    19.4310mm    90       
+IC401      "Integrated Circuit"                                                                  BottomLayer 49.6570mm    19.3040mm    270      
+IC500      "No Description Available"                                                            BottomLayer 71.2492mm    66.3065mm    180      
+IC800      "Integrated Circuit"                                                                  TopLayer    82.9780mm    13.7310mm    270      
+J100       "USB Connectors MICRO USB B RECPT BTTM MOUNT ASSY"                                    TopLayer    58.9275mm    79.3285mm    180      
+J101       B2B-XH-A(LF)(SN)                                                                      TopLayer    42.1840mm    9.2710mm     0        
+J800       Connector                                                                             TopLayer    68.2633mm    9.3980mm     270      
+L500       Inductor                                                                              BottomLayer 71.8200mm    71.7675mm    180      
+LED200     LED                                                                                   TopLayer    95.8850mm    48.8950mm    180      
+P100       "Header, 4-Pin"                                                                       TopLayer    86.9950mm    25.7810mm    180      
+P101       "Header, 10-Pin"                                                                      TopLayer    54.7370mm    32.6390mm    180      
+P102       "Header, 5-Pin"                                                                       TopLayer    73.9140mm    75.1840mm    180      
+P103       "Header, 4-Pin"                                                                       TopLayer    16.5666mm    75.6920mm    90       
+P104       "Header, 2-Pin"                                                                       TopLayer    42.0370mm    18.1610mm    180      
+P105       "Header, 3-Pin"                                                                       TopLayer    55.8800mm    27.3050mm    180      
+P106       "Header, 3-Pin"                                                                       TopLayer    45.8470mm    27.3783mm    180      
+P107       "Header, 3-Pin"                                                                       TopLayer    65.4050mm    27.1780mm    180      
+P108       "Header, 2-Pin"                                                                       TopLayer    87.7570mm    68.3260mm    270      
+P109       "Header, 2-Pin"                                                                       TopLayer    91.0590mm    45.9740mm    90       
+P200       "Header, 4-Pin"                                                                       TopLayer    50.0380mm    80.5180mm    90       
+P201       "Header, 3-Pin"                                                                       TopLayer    85.9790mm    55.8800mm    270      
+P400       "Header, 3-Pin"                                                                       TopLayer    93.3450mm    55.6260mm    270      
+P401       "Header, 3-Pin"                                                                       TopLayer    56.3880mm    8.5090mm     0        
+P402       "Header, 3-Pin"                                                                       TopLayer    89.5350mm    55.7530mm    270      
+P500       "Header, 3-Pin"                                                                       TopLayer    88.7730mm    62.3570mm    180      
+P501       "Header, 2-Pin"                                                                       TopLayer    79.8210mm    70.6658mm    90       
+P800       "Header, 3-Pin"                                                                       TopLayer    71.3740mm    19.1770mm    270      
+R100       "RES SMD 2% 1.5W 0603"                                                                TopLayer    19.1770mm    75.0570mm    90       
+R101       1608[0603]                                                                            TopLayer    19.0500mm    78.9940mm    90       
+R102       1608[0603]                                                                            TopLayer    36.9570mm    46.6090mm    90       
+R103       1608[0603]                                                                            TopLayer    35.1790mm    46.6090mm    270      
+R200       1608[0603]                                                                            TopLayer    94.4880mm    46.7360mm    0        
+R201       1608[0603]                                                                            BottomLayer 68.3260mm    48.6410mm    180      
+R300       "RES SMD 2% 1.5W 0603"                                                                TopLayer    29.0830mm    36.3120mm    180      
+R301       "RES SMD 2% 1.5W 0603"                                                                TopLayer    37.4650mm    31.9067mm    90       
+R302       "RES SMD 2% 1.5W 0603"                                                                TopLayer    30.6070mm    30.7240mm    270      
+R303       "RES SMD 2% 1.5W 0603"                                                                TopLayer    30.2260mm    25.5270mm    0        
+R400       "RES SMD 2% 1.5W 0603"                                                                BottomLayer 49.7840mm    10.0330mm    180      
+R401       "RES SMD 2% 1.5W 0603"                                                                BottomLayer 46.7360mm    19.9390mm    270      
+R402       "RES SMD 2% 1.5W 0603"                                                                BottomLayer 50.5460mm    12.2220mm    270      
+R403       "RES SMD 2% 1.5W 0603"                                                                BottomLayer 49.5920mm    22.8600mm    180      
+R600       "RES SMD 2% 1.5W 0603"                                                                TopLayer    85.1020mm    43.0530mm    180      
+R601       "RES SMD 2% 1.5W 0603"                                                                TopLayer    82.2960mm    31.3690mm    270      
+R602       "RES SMD 2% 1.5W 0603"                                                                TopLayer    86.1837mm    37.5412mm    90       
+R603       "RES SMD 2% 1.5W 0603"                                                                TopLayer    81.2800mm    44.0690mm    180      
+R700       "RES SMD 2% 1.5W 0603"                                                                TopLayer    32.2580mm    62.3570mm    90       
+R701       "RES SMD 2% 1.5W 0603"                                                                TopLayer    29.8075mm    62.3848mm    270      
+R702       "RES SMD 2% 1.5W 0603"                                                                TopLayer    27.3136mm    62.3848mm    90       
+R703       "RES SMD 2% 1.5W 0603"                                                                TopLayer    26.3323mm    46.6368mm    270      
+R704       "RES SMD 2% 1.5W 0603"                                                                TopLayer    24.9353mm    46.6368mm    270      
+R705       "RES SMD 2% 1.5W 0603"                                                                TopLayer    23.5383mm    46.6368mm    90       
+R706       "RES SMD 2% 1.5W 0603"                                                                BottomLayer 22.8600mm    48.7680mm    180      
+R707       "RES SMD 2% 1.5W 0603"                                                                BottomLayer 24.9540mm    46.9900mm    180      
+R708       "RES SMD 2% 1.5W 0603"                                                                TopLayer    26.3323mm    73.1148mm    0        
+R709       "RES SMD 2% 1.5W 0603"                                                                TopLayer    22.7763mm    58.1288mm    90       
+R710       "RES SMD 2% 1.5W 0603"                                                                TopLayer    24.1733mm    73.8520mm    90       
+R711       "RES SMD 2% 1.5W 0603"                                                                TopLayer    26.0668mm    58.1288mm    90       
+R712       "RES SMD 2% 1.5W 0603"                                                                TopLayer    20.4903mm    55.2728mm    270      
+R713       "RES SMD 2% 1.5W 0603"                                                                TopLayer    31.0543mm    58.1288mm    90       
+R714       "RES SMD 2% 1.5W 0603"                                                                TopLayer    22.7190mm    73.8520mm    270      
+R715       "RES SMD 2% 1.5W 0603"                                                                TopLayer    21.3220mm    58.1288mm    270      
+R716       "RES SMD 2% 1.5W 0603"                                                                TopLayer    28.5606mm    58.1288mm    270      
+SW100      "No Description Available"                                                            TopLayer    40.6307mm    46.4820mm    90       
+TO100      "Header, 10-Pin"                                                                      TopLayer    34.1630mm    84.3280mm    0        
+U200       "No Description Available"                                                            BottomLayer 54.1020mm    46.6090mm    180      
+U201       "No Description Available"                                                            BottomLayer 58.7390mm    70.6244mm    270      
+U300       "256-Taps, 100k, Single-Channel Potentiometer With SPI Interface 8-SOT-23 -40 to 125" TopLayer    33.4720mm    32.7410mm    90       
+U301       "No Description Available"                                                            TopLayer    25.0190mm    31.7077mm    270      
+U302       "No Description Available"                                                            TopLayer    33.6550mm    39.1060mm    0        
+U303       "256-Taps, 100k, Single-Channel Potentiometer With SPI Interface 8-SOT-23 -40 to 125" TopLayer    33.5280mm    25.6440mm    90       
+U304       "No Description Available"                                                            TopLayer    26.7970mm    24.0550mm    90       
+U600       "No Description Available"                                                            TopLayer    82.1690mm    37.0498mm    270      
+U700       "No Description Available"                                                            TopLayer    26.2891mm    68.0720mm    270      
+U701       "No Description Available"                                                            TopLayer    26.0783mm    52.3690mm    270      
+U702       ""                                                                                    TopLayer    33.1903mm    68.1618mm    270      
+Y200       "32.768 kHz ±10ppm Crystal 7pF 70 kOhms 2-SMD, No Lead"                              BottomLayer 70.5436mm    43.6407mm    0        
+Y201       "No Description Available"                                                            BottomLayer 71.1368mm    38.6728mm    0        
+Y300       "Crystal or Oscillator"                                                               TopLayer    27.0660mm    39.7020mm    270      

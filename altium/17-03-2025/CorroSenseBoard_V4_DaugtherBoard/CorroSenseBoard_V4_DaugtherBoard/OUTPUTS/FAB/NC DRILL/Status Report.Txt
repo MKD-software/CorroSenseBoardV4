@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:41:32 On 17/03/2025
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [CorroSenseBoard_V4_DaugtherBoard.PcbDoc]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard-Plated.TXT]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.DRL]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.LDP]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:41:33 On 17/03/2025

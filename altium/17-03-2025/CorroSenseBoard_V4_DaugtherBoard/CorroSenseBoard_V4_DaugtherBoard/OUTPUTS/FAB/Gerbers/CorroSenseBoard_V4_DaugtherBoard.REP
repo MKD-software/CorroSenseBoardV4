@@ -1,0 +1,234 @@
+*************************************************************
+FileName = CorroSenseBoard_V4_DaugtherBoard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : CorroSenseBoard_V4_DaugtherBoard.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CorroSenseBoard_V4_DaugtherBoard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : CorroSenseBoard_V4_DaugtherBoard.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : CorroSenseBoard_V4_DaugtherBoard.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CorroSenseBoard_V4_DaugtherBoard.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CorroSenseBoard_V4_DaugtherBoard.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CorroSenseBoard_V4_DaugtherBoard.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : CorroSenseBoard_V4_DaugtherBoard.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : -5V
+      File : CorroSenseBoard_V4_DaugtherBoard.G2
+
+    Adding Layer      : -5V
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : +5V
+      File : CorroSenseBoard_V4_DaugtherBoard.G1
+
+    Adding Layer      : +5V
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : CorroSenseBoard_V4_DaugtherBoard.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : CorroSenseBoard_V4_DaugtherBoard.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : CorroSenseBoard_V4_DaugtherBoard.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D43
+*************************************************************
+

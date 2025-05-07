@@ -1,0 +1,29 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:39:58 On 17/03/2025
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [CorroSenseBoard_V4_DaugtherBoard.PcbDoc]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GTO]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GTP]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GTS]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GTL]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.G1]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.G2]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GBL]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GBS]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GBP]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GBO]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GKO]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GD1]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.GG1]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.RUL]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.EXTREP]
+   Generated File[CorroSenseBoard_V4_DaugtherBoard.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 13:40:00 On 17/03/2025

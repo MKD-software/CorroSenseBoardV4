@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: CorrosenseBoardV4_3.GBR   17/03/2025  13:45:42
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 INT1                                    
+.G2                 INT2                                    
+.G3                 INT3                                    
+.G4                 INT4                                    
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------
