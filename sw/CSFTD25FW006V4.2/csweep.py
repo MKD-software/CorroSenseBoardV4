@@ -6,11 +6,27 @@ import math
 from csftd import Csftd
 import matplotlib.pyplot as plt
 import numpy as np
+import os
+import csv
+
+DWELL_TIME = 2   # ms
+# Emi sweep parameters
+FREQ_BEGIN = 200*10000  # 20 kHz
+FREQ_END = 271*10000  # 500 kHz
+
+FREQ_BEGIN = 20*10000  # 20 kHz
+FREQ_END = 271*10000  # 500 kHz
+STEPS = 1000  # points between begin and end freq's
+
+DDS_GAIN = 255  # 0-255
+TIA_GAIN = 1  # 0-255 0 is maximum gain, 255 is minimum gain
+
+
 
 csdev = Csftd()
 
 # Open connection
-csdev.connect('COM13', 115200)
+csdev.connect('COM4', 115200)
 
 if csdev.is_connected():
     print('Device connected')
@@ -25,10 +41,10 @@ if csdev.is_connected():
     print('MCU TEMPERATURE: ' + str(csdev.get_mcu_adc_channel_raw(1)) + ' RAW')
 
     # Set DDS gain
-    print('DDS gain: ' + csdev.set_dds_gain(255))
+    print('DDS gain: ' + csdev.set_dds_gain(DDS_GAIN))
 
     # Set TIA gain
-    print('TIA gain: ' + csdev.set_tia_gain(255))
+    print('TIA gain: ' + csdev.set_tia_gain(TIA_GAIN))
 
     # Get ADS1115 CHANNEL_AIN0_GND
     print('ADS1115 AIN0_GND: ' + str(csdev.get_ext_adc_channel(4)) + ' RAW')
@@ -43,10 +59,10 @@ if csdev.is_connected():
     print('ADS1115 AIN3_GND: ' + str(csdev.get_ext_adc_channel(7)) + ' RAW')
 
     # Emi sweep parameters
-    freqbegin = 200000  # 20 kHz
-    freqend = 5000000  # 500 kHz
-    steps = 20  # points between begin and end freq's
-    dwelltime = 20  # ms
+    freqbegin = FREQ_BEGIN  # 20 kHz
+    freqend = FREQ_END  # 500 kHz
+    steps = STEPS  # points between begin and end freq's
+    dwelltime = DWELL_TIME   # ms
 
     # Calc step size
     stepsize = int(round((freqend - freqbegin) / (steps - 1), 0))
@@ -66,6 +82,11 @@ if csdev.is_connected():
 
     #print('Index ; Frequency [Hz] ; Vo ; Magnitude ; Phase [°]')
     print('Index ; Frequency [Hz] ; Magnitude ; Phase [°]')
+
+    test = csdev.get_emi_mag_phase(freq, dwelltime, False)
+    test = csdev.get_emi_mag_phase(freq, dwelltime, True)
+
+
 
     # Loop through frequencies
     for i in range(steps):
@@ -113,7 +134,28 @@ if csdev.is_connected():
     csdev.disconnect()
     print('Device disconnected')
 
-    # Plot data
+    # # Plot data
+    # plt.subplot(2, 1, 1)
+    # plt.plot(x, mag)
+    # plt.xlabel("Frequency [Hz]")
+    # plt.ylabel("Magnitude")
+
+    # plt.subplot(2, 1, 2)
+    # plt.plot(x, phi)
+    # plt.xlabel("Frequency [Hz]")
+    # plt.ylabel("Phase [°]")
+    # plt.show()
+
+    
+    # Output directory
+    output_dir = r"C:\CorroSenseBoardV4\measurements\dwell test"
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Create a descriptive filename
+    base_filename = f"sweep_{FREQ_BEGIN/10000}_{FREQ_END/10000}_{stepsize}res_{DWELL_TIME}ms_DDS{DDS_GAIN}_TIA{TIA_GAIN}"
+
+    # Plot and save figure
+    plt.figure(figsize=(10, 6))
     plt.subplot(2, 1, 1)
     plt.plot(x, mag)
     plt.xlabel("Frequency [Hz]")
@@ -123,7 +165,25 @@ if csdev.is_connected():
     plt.plot(x, phi)
     plt.xlabel("Frequency [Hz]")
     plt.ylabel("Phase [°]")
-    plt.show()
+
+    plot_path = os.path.join(output_dir, f"{base_filename}.png")
+    plt.tight_layout()
+    plt.savefig(plot_path)
+    #plt.show()
+
+    plt.close()  # Closes the current figure
+
+    # Save data as CSV
+    csv_path = os.path.join(output_dir, f"{base_filename}.csv")
+    with open(csv_path, mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Frequency [Hz]", "Magnitude", "Phase [°]"])
+        for freq, m, p in zip(x, mag, phi):
+            writer.writerow([freq, m, p])
+
+    print(f"Saving plot to: {plot_path}")
+    print(f"Saving CSV to: {csv_path}")
+
 
 else:
     print('Connection error')
