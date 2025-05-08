@@ -36,10 +36,27 @@ Several jumpers must be configured correctly for the board to function as intend
 
 ---
 
-
 The board can then be powered on J101 with max 5VDC and min 3VDC.
 
 ### Daughterboard
 
 *(Add relevant jumper details here if available)*
+
+## Issues and TODO
+
+#### Motherboard
+
+- The very first ADC reading is always maximum value, doing 1 reading before main loop (and not saving the data) solves the issue.
+
+- Mag and phase measure measurements are identical.
+
+- The DDS gain is highly frequency dependent, above 100kHz the sinewave becomes more like a saw and amplitude of signal decreases. This happens ... could be because of OPAMPS or digital pot.
+
+- Calculate phase and mag, find the right formula, struggling to get correct results, could be due to the VCOMM of 1.4V instead of 0.
+
+- A good measurement is highly dependent on TIA gain and frequency... how to automate it? Maybe make a measurement on the TIA over frequency..?
+
+
+
+
 
